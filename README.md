@@ -4,7 +4,7 @@
 
 `brew install ig/core/<formula>`
 
-Or `brew tap ig/core` and then `brew install <formula>`.
+Or `brew tap ig/core git@github.com:innogames/homebrew-core-ig.git` and then `brew install <formula>`.
 
 ## Documentation
 
